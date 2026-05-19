@@ -16,8 +16,8 @@ function celsiusToFahrenheit(celsius) {
   return (celsius * 9/5) + 32;
 }
 
-function getLargest(a, b, c) {
-  return max(a, b, c);
+function getLargest(firstNumber, secondNumber, thirdNumber) {
+  return max(firstNumber, secondNumber, thirdNumber);
 }
 
 
