@@ -29,5 +29,5 @@ while number_of_attempts < 5:
         print("Too high!")
 # if  a user gess the number once! => display legendary!
 print("The number was", number)
-print("Rating ", rate)
+#print("Rating ", rate)
 print("You used", number_of_attempts, "attempts")

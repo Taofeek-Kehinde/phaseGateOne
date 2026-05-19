@@ -1,0 +1,13 @@
+import java.util.Scanner;
+
+public class TaskEight {
+    public static void main(String[] args) {
+        Scanner userInput = new Scanner(System.in);
+
+        System.out.print("Enter a number: ");
+         double number = userInput.nextDouble();
+         System.out.println("Square of " + number + " is " + (number * number));
+
+}
+
+}
