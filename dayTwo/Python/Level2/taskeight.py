@@ -1,5 +1,5 @@
 
-day = int(input("8. Enter day number (1-7): "))
+day = int(input(" Enter day number (1-7): "))
 if day == 1:
     print("Monday")
 elif day == 2:

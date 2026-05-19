@@ -1,8 +1,8 @@
 first_number = float(input(" Enter first number: "))
 second_number= float(input("   Enter second number: "))
 if first_number > second_number:
-    print(f"Larger number: {num1}")
+    print(f"Larger number: {first_number}")
 elif second_number > first_number:
-    print(f"Larger number: {num2}")
+    print(f"Larger number: {second_number}")
 else:
-    print("Both numbers are equa
+    print("Both numbers are equa")

@@ -7,4 +7,4 @@ elif second_number >= first_number and second_number >= first_number:
     largest = second_number
 else:
     largest = third_number
-print(f"Largest number: {largest}"
+print(f"Largest number: {largest}")
